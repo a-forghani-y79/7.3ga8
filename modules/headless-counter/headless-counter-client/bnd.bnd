@@ -1,0 +1,3 @@
+Bundle-Name: headless-counter-client
+Bundle-SymbolicName: com.ali.headless.counter.client
+Bundle-Version: 1.0.0

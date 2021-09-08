@@ -1,0 +1,9 @@
+apiDir: "../headless-counter-api/src/main/java"
+apiPackagePath: "com.ali.headless.counter"
+application:
+    baseURI: "/headless-counter"
+    className: "HeadlessCounterApplication"
+    name: "HeadlessCounter"
+author: "jinos"
+clientDir: "../headless-counter-client/src/main/java"
+testDir: "../headless-counter-test/src/testIntegration/java"

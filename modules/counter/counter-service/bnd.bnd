@@ -1,0 +1,6 @@
+Bundle-Name: counter-service
+Bundle-SymbolicName: com.ali.service.counter.service
+Bundle-Version: 1.0.0
+Liferay-Require-SchemaVersion: 1.0.0
+Liferay-Service: true
+-dsannotations-options: inherit

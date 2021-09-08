@@ -1,0 +1,6 @@
+Bundle-Name: headless-counter-api
+Bundle-SymbolicName: com.ali.headless.counter.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	com.ali.headless.counter.dto.v1_0,\
+	com.ali.headless.counter.resource.v1_0

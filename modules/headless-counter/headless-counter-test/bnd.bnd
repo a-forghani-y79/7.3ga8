@@ -1,0 +1,4 @@
+Bundle-Name: headless-counter-test
+Bundle-SymbolicName: com.ali.headless.counter.test
+Bundle-Version: 1.0.0
+-includeresource: com.ali.headless.counter.client.jar=../headless-counter-client/build/libs/com.ali.headless.counter.client-1.0.0.jar;lib:=true

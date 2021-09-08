@@ -1,0 +1,10 @@
+Bundle-Name: counter-api
+Bundle-SymbolicName: com.ali.service.counter.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	com.ali.service.counter.exception,\
+	com.ali.service.counter.model,\
+	com.ali.service.counter.service,\
+	com.ali.service.counter.service.persistence
+-check: EXPORTS
+-includeresource: META-INF/service.xml=../counter-service/service.xml
